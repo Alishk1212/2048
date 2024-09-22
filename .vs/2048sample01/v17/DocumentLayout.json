@@ -1,0 +1,487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Prj\\2048sample01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92255983-D698-4CF7-B066-05292696CFCF}|Solution Items{92255983-D698-4CF7-B066-05292696CFCF}|E:\\Prj\\2048sample01\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{92255983-D698-4CF7-B066-05292696CFCF}|Solution Items{92255983-D698-4CF7-B066-05292696CFCF}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\mainmenu\\clientcoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\clientcoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|e:\\prj\\2048sample01\\assets\\scripts\\scripts\\eventholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts\\eventholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\mainmenu\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\mainmenu\\panelcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\panelcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\mainmenu\\popup_stat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\popup_stat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\mainmenu\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\mainmenu\\popup_custompopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\popup_custompopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\scripts\\ingameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts\\ingameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\mainmenu\\overlayanimationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\overlayanimationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\machinestatedesign\\gridsmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\machinestatedesign\\gridsmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\machinestatedesign\\gridsmovementcheckstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\machinestatedesign\\gridsmovementcheckstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\scripts\\scoreshowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts\\scoreshowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\mainmenu\\popopstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\popopstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\machinestatedesign\\savestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\machinestatedesign\\savestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\machinestatedesign\\gridscreatorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\machinestatedesign\\gridscreatorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\machinestatedesign\\gridmanagerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\machinestatedesign\\gridmanagerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\machinestatedesign\\gridsbasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\machinestatedesign\\gridsbasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\scripts\\griddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts\\griddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\scripts\\tilescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts\\tilescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\scripts\\numeberscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts\\numeberscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\machinestatedesign\\gridswinlosestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\machinestatedesign\\gridswinlosestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\mainmenu\\popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\machinestatedesign\\gridsspawnstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\machinestatedesign\\gridsspawnstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\mainmenu\\overlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\overlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\mainmenu\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\mainmenu\\gridsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\gridsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\machinestatedesign\\gridslosestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\machinestatedesign\\gridslosestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|E:\\Prj\\2048sample01\\assets\\scripts\\machinestatedesign\\gridsdetectemptygridsstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF08C366-2D46-B834-614C-00FFC839D6B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\machinestatedesign\\gridsdetectemptygridsstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "E:\\Prj\\2048sample01\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-22T07:57:07.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Popup_Stat1.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\Popup_Stat1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\Popup_Stat1.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\Popup_Stat1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\Popup_Stat1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:53:10.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PopOpStat.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\PopOpStat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\PopOpStat.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\PopOpStat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\PopOpStat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:53:01.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "panelCanvas.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\panelCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\panelCanvas.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\panelCanvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\panelCanvas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:52:53.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuUi.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\MainMenuUi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\MainMenuUi.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\MainMenuUi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\MainMenuUi.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:52:18.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Popup.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\Popup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\Popup.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\Popup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\Popup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:52:12.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Panel.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\Panel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\Panel.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\Panel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\Panel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:52:10.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OverlayAnimationData.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\OverlayAnimationData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\OverlayAnimationData.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\OverlayAnimationData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\OverlayAnimationData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:52:04.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Overlay.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\Overlay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\Overlay.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\Overlay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\Overlay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:51:58.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientCoordinator.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\ClientCoordinator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\ClientCoordinator.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\ClientCoordinator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\ClientCoordinator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:51:37.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exit.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\Exit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\Exit.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\Exit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\Exit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:07:05.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Popup_Custompopup.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\Popup_Custompopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\Popup_Custompopup.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\Popup_Custompopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\Popup_Custompopup.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:50:20.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventHolder.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\Scripts\\EventHolder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scripts\\EventHolder.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\Scripts\\EventHolder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scripts\\EventHolder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:28:51.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GridSetting.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\GridSetting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\GridSetting.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MainMenu\\GridSetting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\GridSetting.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:52:23.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GridsLoseState.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsLoseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MachineStateDesign\\GridsLoseState.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsLoseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MachineStateDesign\\GridsLoseState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:49:47.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GridsMovementCheckState.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsMovementCheckState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MachineStateDesign\\GridsMovementCheckState.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsMovementCheckState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MachineStateDesign\\GridsMovementCheckState.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:48:14.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GridsMovementState.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsMovementState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MachineStateDesign\\GridsMovementState.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsMovementState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MachineStateDesign\\GridsMovementState.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:46:31.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaveState.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\SaveState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MachineStateDesign\\SaveState.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\SaveState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MachineStateDesign\\SaveState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:35:38.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GridsWinLoseState.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsWinLoseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MachineStateDesign\\GridsWinLoseState.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsWinLoseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MachineStateDesign\\GridsWinLoseState.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwFEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:49:02.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GridsSpawnState.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsSpawnState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MachineStateDesign\\GridsSpawnState.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsSpawnState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MachineStateDesign\\GridsSpawnState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:44:48.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GridsDetectEmptyGridsState.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsDetectEmptyGridsState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MachineStateDesign\\GridsDetectEmptyGridsState.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsDetectEmptyGridsState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MachineStateDesign\\GridsDetectEmptyGridsState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:45:41.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GridsCreatorState.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsCreatorState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MachineStateDesign\\GridsCreatorState.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsCreatorState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MachineStateDesign\\GridsCreatorState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:03:44.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GridManagerState.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridManagerState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MachineStateDesign\\GridManagerState.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridManagerState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MachineStateDesign\\GridManagerState.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwEAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T05:31:17.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScoreShowUI.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\Scripts\\ScoreShowUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scripts\\ScoreShowUI.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\Scripts\\ScoreShowUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scripts\\ScoreShowUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:59:34.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InGameUI.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\Scripts\\InGameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scripts\\InGameUI.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\Scripts\\InGameUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scripts\\InGameUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:10:12.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NumeberScript.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\Scripts\\NumeberScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scripts\\NumeberScript.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\Scripts\\NumeberScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scripts\\NumeberScript.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:38:23.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TileScript.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\Scripts\\TileScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scripts\\TileScript.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\Scripts\\TileScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scripts\\TileScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:38:25.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GridData.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\Scripts\\GridData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scripts\\GridData.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\Scripts\\GridData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scripts\\GridData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:38:19.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GridsBaseState.cs",
+              "DocumentMoniker": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsBaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MachineStateDesign\\GridsBaseState.cs",
+              "ToolTip": "E:\\Prj\\2048sample01\\Assets\\Scripts\\MachineStateDesign\\GridsBaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MachineStateDesign\\GridsBaseState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:00:53.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
